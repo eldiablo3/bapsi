@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/olli/Documents/Apps Programmierung/BaPSi/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
